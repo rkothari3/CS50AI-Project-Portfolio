@@ -65,7 +65,7 @@ The course is divided into six modules, each focusing on a specific area of AI:
 * **[Heredity AI](heredity/)**: Develop an AI to predict the likelihood of genetic traits based on Bayesian networks
 
 ### 4. Optimization
-*[Crossword Puzzle Solver](crossword/)**: Write an AI to generate crossword puzzles by solving constraint satisfaction problems
+* **[Crossword Puzzle Solver](crossword/)**: Write an AI to generate crossword puzzles by solving constraint satisfaction problems
 
 ### 5. Learning
 * **[Shopping Predictor](shopping/)**: Predict whether online shopping customers will complete a purchase using supervised learning techniques
