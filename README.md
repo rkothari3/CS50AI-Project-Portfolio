@@ -1,1 +1,1 @@
-# Harvard-s-CS50AI---Introduction-to-Artificial-Intelligence---Portfolio
+# CS50AI - Harvard University's Intro to AI - Project Portfolio
