@@ -53,29 +53,29 @@ The course is divided into six modules, each focusing on a specific area of AI:
 
 ### 1. Search
 * **[Degrees of Separation](degrees/)**: Develop an AI to determine the "degrees of separation" between two actors using graph search algorithms
-* **Tic-Tac-Toe**: Implement an AI that plays Tic-Tac-Toe optimally using the Minimax algorithm
+* **[Tic-Tac-Toe AI](tictactoe/)**: Implement an AI that plays Tic-Tac-Toe optimally using the Minimax algorithm
 
 ### 2. Knowledge
-* **Knights**: Solve logic puzzles using propositional logic and model checking
-* **Minesweeper**: Create an AI that plays Minesweeper by applying logical inference
+* **[Knights and Knaves](knights/)**: Solve logic puzzles using propositional logic and model checking
+* **[Minesweeper AI](minesweeper/)**: Create an AI that plays Minesweeper by applying logical inference
 
 ### 3. Uncertainty
-* **PageRank**: Build an AI to rank web pages by importance using probability-based methods
-* **Heredity**: Develop an AI to predict the likelihood of genetic traits based on Bayesian networks
+* **[PageRank Algorithm](pagerank/)**: Build an AI to rank web pages by importance using probability-based methods
+* **[Heredity AI](heredity/)**: Develop an AI to predict the likelihood of genetic traits based on Bayesian networks
 
 ### 4. Optimization
-* **Crossword**: Write an AI to generate crossword puzzles by solving constraint satisfaction problems
+*[Crossword Puzzle Solver](crossword/)**: Write an AI to generate crossword puzzles by solving constraint satisfaction problems
 
 ### 5. Learning
-* **Shopping**: Predict whether online shopping customers will complete a purchase using supervised learning techniques
-* **Nim**: Implement reinforcement learning to create an AI that teaches itself to play Nim
+* **[Shopping Predictor](shopping/)**: Predict whether online shopping customers will complete a purchase using supervised learning techniques
+* **[Nim Game AI](nim/)**: Implement reinforcement learning to create an AI that teaches itself to play Nim
 
 ### 6. Neural Networks
-* **Traffic**: Train a convolutional neural network to identify traffic signs from images
+* **[Traffic Sign Recognition](traffic/)**: Train a convolutional neural network to identify traffic signs from images
 
 ### 7. Language
-* **Parser**: Create an AI that parses sentences to extract noun phrases
-* **Attention**: Implement a computational model that simulates the concept of attention, often used in deep learning, to improve the focus and weighting of inputs for tasks like natural language processing or image recognition.
+* **[Sentence Parser](parser/)**: Create an AI that parses sentences to extract noun phrases
+* **[Attention](attention/)**: Implement a computational model that simulates the concept of attention, often used in deep learning, to improve the focus and weighting of inputs for tasks like natural language processing or image recognition.
 
 ## Disclaimer
 
