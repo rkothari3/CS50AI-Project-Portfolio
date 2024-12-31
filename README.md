@@ -79,7 +79,7 @@ The course is divided into six modules, each focusing on a specific area of AI:
 
 ## Disclaimer
 
-This repository showcases projects completed as part of Harvard's CS50's Introduction to Artificial Intelligence with Python. These projects are intended for educational purposes only. In accordance with Harvard University's academic integrity policy:
+This repository showcases projects completed as part of Harvard's CS50's Introduction to Artificial Intelligence with Python. These projects are intended for educational purposes only. In accordance with [Harvard University's academic integrity policy](https://oaisc.fas.harvard.edu/honor-code/#:~:text=Cheating%20on%20exams%20or%20problem,world%20of%20learning%20and%20affairs.):
 
 * Do not copy or submit this code as your own in any academic or professional setting
 * Use this repository as a reference for understanding concepts or as inspiration for your own implementations
