@@ -40,6 +40,7 @@ The course covers a wide range of AI concepts and technologies, including:
 * Convolutional neural networks (CNNs)
 * Recurrent neural networks (RNNs)
 * TensorFlow
+* OpenCV (cv2)
 
 ### Natural Language Processing (NLP)
 * Syntax and semantics
