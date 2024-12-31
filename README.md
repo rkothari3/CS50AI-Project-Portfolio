@@ -52,7 +52,7 @@ The course covers a wide range of AI concepts and technologies, including:
 The course is divided into six modules, each focusing on a specific area of AI:
 
 ### 1. Search
-* **Degrees**: Develop an AI to determine the "degrees of separation" between two actors using graph search algorithms
+* **[Degrees of Separation](degrees/)**: Develop an AI to determine the "degrees of separation" between two actors using graph search algorithms
 * **Tic-Tac-Toe**: Implement an AI that plays Tic-Tac-Toe optimally using the Minimax algorithm
 
 ### 2. Knowledge
